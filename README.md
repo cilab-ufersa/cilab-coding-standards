@@ -58,7 +58,7 @@ Os pacotes Python também devem ter nomes curtos em letras minúsculas, embora o
 
 Quando um módulo de extensão escrito em C ou C++ tem um módulo Python que o acompanha que fornece uma interface de nível superior (por exemplo, mais orientada a objetos), o módulo C/C++ tem um sublinhado principal (por exemplo, _socket).
 
-##Nomes de classe
+## Nomes de classe
 
 Os nomes de classe normalmente devem usar a convenção CapWords.
 
